@@ -1,0 +1,1 @@
+This project is a small web-based augmented reality (AR) experiment built using A-Frame and AR.js. It demonstrates how barcode markers can be used to dynamically render 3D models or primitives in an AR scene.
